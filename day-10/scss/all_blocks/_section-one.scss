@@ -1,0 +1,32 @@
+.section-one {
+    margin-top: 168px;
+    margin-bottom: 168px;
+    display: flex;
+    justify-content: space-between;
+}
+.picture__section-one {
+    border-radius: 10px;
+    width: 445px;
+    height: 580px;
+}
+.section-one__heading-two {
+    font-family: "Fraunces " 9pt;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 48px;
+    color: #333D4B;
+    padding-right: 300px;
+    padding-top: 80px;
+  }
+  .section-one__heading-two2{
+    font-family: "Barlow";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+    color: #333D4B;
+    opacity: 0.8;
+    width: 540px;
+    height: 260px;
+  }

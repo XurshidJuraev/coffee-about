@@ -1,0 +1,31 @@
+.header{
+  max-width: 1300px;
+  display: flex;
+  justify-content: space-around;
+}
+.list{
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+}
+.item{
+  // padding-right: 10px;
+  // padding-left: 10px;
+  text-transform: uppercase;
+  margin-top: 20px;
+  margin-right: -400px;
+  opacity: 0.7;
+}
+.item:hover{
+  opacity: 1;
+}
+.header__img{
+  margin-left: -400px;
+  margin-top: 20px;
+}
+@media only screen and (max-width: 768px) {
+  .header{
+    min-width: 668px;
+    max-width: 768px;
+  }
+}

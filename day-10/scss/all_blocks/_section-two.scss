@@ -1,0 +1,39 @@
+.section-two{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+    width: 1280px;
+    height: 474px;
+    margin-bottom: 168px;
+    background-color: #2C343E;
+}
+.section-two__heading-two{
+    font-family: "Fraunces" 9pt;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 48px;
+    color: #FEFCF7;
+    padding-left: 85px;
+}
+.text__section-two{
+    font-family: "Barlow";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FEFCF7;
+    opacity: 0.8;
+    width: 540px;
+    height: 130px;
+    padding-left: 85px;
+}
+.picture__section-two{
+    width: 445px;
+    height: 474px;
+    border-radius: 10px;
+    position: absolute;
+    top: -80px;
+    left: 800px;
+}
